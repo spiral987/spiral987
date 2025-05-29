@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?spiral987=spiral987" />
+  <img src="https://komarev.com/ghpvc/?username=spiral987" />
 </div>
 
 <!-- 2. プロフィールや連絡先を変更 -->
