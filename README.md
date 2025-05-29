@@ -8,7 +8,7 @@
 
 - 🧑‍💻 北海道大学　情報科学院 修士1年
 - 🌱 C++やTypeScriptを学習中
-- 📫 SNS: [Twitter - @spiralneet]([https://x.com/spiralneet])
+- 📫 SNS: [Twitter - @spiralneet](https://x.com/spiralneet)
 <br>
 
 
