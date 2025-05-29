@@ -1,11 +1,11 @@
 <!-- 1. GitHub usernameを変更 -->
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> プロフィール
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 🧑‍💻 北海道大学　情報科学院 修士1年
+- 🌱 C++やTypeScriptを学習中
+- 📫 How to reach me: [Twitter - @spiralneet]([https://twitter.com/username](https://x.com/spiralneet))
 <br>
 
 
