@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=spiral987" />
 </div>
 
+![](https://count.getloli.com/get/@u-tan?theme=rule34)
+
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> プロフィール
 
