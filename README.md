@@ -3,7 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=spiral987" />
 </div>
 
-![](https://count.getloli.com/get/@u-tan?theme=rule34)
 ![:spiral987](https://count.getloli.com/@:spiral987)
 
 <!-- 2. プロフィールや連絡先を変更 -->
