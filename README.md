@@ -1,6 +1,8 @@
 <!-- 1. GitHub usernameを変更 -->
 ![spiral987](https://count.getloli.com/@spiral987?name=spiral987&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+![](https://komarev.com/ghpvc/?username=spiral987)
+
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> プロフィール
 
