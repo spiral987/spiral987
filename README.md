@@ -27,6 +27,8 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiral987&theme=vue-dark&layout=compact" />
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 <!--
