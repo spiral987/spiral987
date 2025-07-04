@@ -14,11 +14,11 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🤏ちょこっとだけ
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=blender,c,cs,css,docker,express,firebase,gcp,html,java,js,nextjs,nodejs,postgres,prisma,py,r,react,ruby,tailwind,ts,unity" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=blender,c,cs,css,docker,express,firebase,gcp,html,java,js,nodejs,postgres,prisma,py,r,ruby,tailwind,unity" />
 <br>
 
 ## 😠頑張ってる
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,cmake" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,cmake,nextjs,react,ts" />
 <br>
 
 ## 🏃‍♀️ Activities
