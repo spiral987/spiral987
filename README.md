@@ -4,7 +4,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> プロフィール
 
-- 🧑‍💻 北海道大学　情報科学院 修士1年
+- 🧑‍💻 北海道大学　情報科学院 修士2年
 - 🌱 C++学習
 - イラストに関する研究
 - 📫 SNS: [Twitter - @spiralneet](https://x.com/spiralneet)
